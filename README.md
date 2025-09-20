@@ -6,6 +6,8 @@ Supplementary Figures for STSI-Impute Paper
 
 This repository contains the supplementary comparison plots of ground-truth vs. predicted PM2.5 values for 12 experimental setups.
 
+The folder attention contains the comparision plots of Additive Attention Model and Multi-head_Attention folder comprises of comparision plots of Multi-Head Self Attention Model
+
 Each figure corresponds to a specific combination of:
 
 Model: Additive Attention / Transformer (Multi-Head Self-Attention)
